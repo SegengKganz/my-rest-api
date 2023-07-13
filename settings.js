@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'GengStoreOfficial'// yourname
-global.MONGO_DB_URI = "mongodb+srv://gwnmamb690:<iEZ0qEhyqHEyrCMA>@cluster0.71wbjp7.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://kekasa2249:Xdh5ryBeRtxHCnAn@cluster0.jalclre.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10837715" //isi apa aja bebas
 global.your_email = "segengelek@gmail.com" //email
 global.email_password = "crubdmyptfjriagc" //application password email
@@ -10,8 +10,8 @@ global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
 		status: 403,
-        message: 'Input parameter apikey',
-        creator: `${creator}`,
+        message: 'Input parameter apikey
+        creator: `${creator
         result: "error"
     },
     error: {
