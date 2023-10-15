@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'GengStoreOfficial'// yourname
-global.MONGO_DB_URI = "mongodb+srv://kekasa2249:Xdh5ryBeRtxHCnAn@cluster0.jalclre.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://segengkpanel:zHVb_4E7mYUAmGG@cluster0.iv0sf1p.mongodb.net/?retryWrites=true&w=majority" //example "mongodb+srv://user:password@name_database.mongodb.net/?retryWrites=true&w=majority"//mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10837715" //isi apa aja bebas
 global.your_email = "segengelek@gmail.com" //email
 global.email_password = "crubdmyptfjriagc" //application password email
